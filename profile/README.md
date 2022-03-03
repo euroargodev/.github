@@ -1,6 +1,5 @@
 ## Welcome to euroargodev 👋  
-![Profile count](https://img.shields.io/endpoint?color=blue&label=Number%20of%20core%20Argo%20profiles%3A&url=https%3A%2F%2Fapi.ifremer.fr%2Fargopy%2Fdata%2FARGO-FULL.json)  
-![Profile count](https://img.shields.io/endpoint?color=green&label=Number%20of%20BGC%20Argo%20profiles%3A&url=https%3A%2F%2Fapi.ifremer.fr%2Fargopy%2Fdata%2FARGO-BGC.json)
+![Profile count](https://img.shields.io/endpoint?color=blue&url=https%3A%2F%2Fapi.ifremer.fr%2Fargopy%2Fdata%2FARGO-FULL.json&style=for-the-badge)![Profile count](https://img.shields.io/endpoint?color=green&label=&url=https%3A%2F%2Fapi.ifremer.fr%2Fargopy%2Fdata%2FARGO-BGC.json&style=for-the-badge)
 
 Euroargodev is a collaborative platform, that allows code hosting, sharing and development, but also networking and discussion among the Argo users community and abroad.
 
