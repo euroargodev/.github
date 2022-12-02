@@ -16,6 +16,7 @@ Or start to play with:
 - the [BGC-Argo toolbox for R](https://github.com/euroargodev/BGC-ARGO_R_WORKSHOP)
 - the [Virtual Fleet software](https://github.com/euroargodev/VirtualFleet/)
 - the [python library to fetch Argo data easily, argopy](https://github.com/euroargodev/argopy) [![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=launch&message=argopy+demo&color=blue)](https://mybinder.org/v2/gh/euroargodev/binder-sandbox/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Feuroargodev%252Fargopy%26urlpath%3Dlab%252Ftree%252Fargopy%252Fdocs%252Ftryit.ipynb)
+- the [ArgoData.jl](https://github.com/euroargodev/ArgoData.jl) package to process and analyze Argo Data with [Julia](https://julialang.org)
 - or the [DMQC salinity calibration software pyowc](https://github.com/euroargodev/argodmqc_owc)
 
 These are just examples of the euroargodev content, check out all other 💞 projects below ...
