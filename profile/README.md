@@ -21,4 +21,4 @@ Or start to play with:
 
 These are just examples of the euroargodev content, check out all other 💞 projects below ...
 
-Having urgent question? [contact support 📬](mailto:euroargo@ifremer.fr?subject=euroargodev) and we’ll help you sort it out.
+Having urgent question? [contact support 📬](mailto:contact@euro-argo.eu?subject=euroargodev) and we’ll help you sort it out.
