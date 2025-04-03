@@ -13,7 +13,7 @@ In addition to the Science Meeting itself from Sept. 23 to 25, you will also hav
 - 📌 **Sept 22 afternoon**: a training session on [Argopy](https://github.com/euroargodev/argopy),
 - 📌 **Sept 25 afternoon**: a Mediterranean Argo workshop.
 
-Check for registration and call for abstract soon on the [8th Euro-Argo Science Meeting webpage](https://www.euro-argo.eu/News-Meetings/News/News-archives/2025/8th-Euro-Argo-Science-Meeting
+Check for registration and abstract submission on the [8th Euro-Argo Science Meeting webpage](https://www.euro-argo.eu/News-Meetings/News/News-archives/2025/8th-Euro-Argo-Science-Meeting
 ).
 
 ![EAScienceMeeting](https://github.com/user-attachments/assets/dca0b06a-639b-4685-a7db-96bd14e1e532)
