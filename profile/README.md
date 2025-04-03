@@ -3,11 +3,26 @@
 
 **Euroargodev is a collaborative platform that allows code hosting, sharing and development, but also networking and discussion among the Argo users community and abroad.**
 
-**History**  
+### 🌊 Announcement: 8th Euro-Argo Science Meeting: SAVE THE DATE !
+
+Join us in Crete (HCMR) on **Sept 23-25, 2025**, for the latest in Argo science! 
+
+It will be possible to follow the meeting online 🌐.
+
+In addition to the Science Meeting itself from Sept. 23 to 25, you will also have the opportunity to attend on:
+- 📌 **Sept 22 afternoon**: a training session on [Argopy](https://github.com/euroargodev/argopy),
+- 📌 **Sept 25 afternoon**: a Mediterranean Argo workshop.
+
+Check for registration and call for abstract soon on the [8th Euro-Argo Science Meeting webpage](https://www.euro-argo.eu/News-Meetings/News/News-archives/2025/8th-Euro-Argo-Science-Meeting
+).
+
+![EAScienceMeeting](https://github.com/user-attachments/assets/dca0b06a-639b-4685-a7db-96bd14e1e532)
+
+### History
 Created in December 2019 for the Euro-Argo community to foster R&D and to provide a collaborative framework for the development and improvement of DMQC for Argo, the use of the platform has since then expanded.  
 It currently hosts tools and materials related to Argo in general.
 
-**Content**  
+### Content  
 If you begins with Argo data, you can get started by visiting:
 - the [Argo online school 🏫](https://euroargodev.github.io/argoonlineschool)
 
@@ -25,7 +40,7 @@ If you're an Argo expert, you may also want to look at:
 
 These are just examples of the **euroargodev** content, check out all other 💞 projects below ...
 
-**More**  
+### More  
 
 [ 📬 Contact support](mailto:contact@euro-argo.eu?subject=euroargodev) if you're having urgent question, and we’ll help you sort it out !
 
