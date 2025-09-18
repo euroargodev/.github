@@ -3,17 +3,15 @@
 
 **Euroargodev is a collaborative platform that allows code hosting, sharing and development, but also networking and discussion among the Argo users community and abroad.**
 
-### 🌊 Announcement: 8th Euro-Argo Science Meeting: SAVE THE DATE !
+### 🌊 8th Euro-Argo Science Meeting
 
-Join us in Crete (HCMR) on **Sept 23-25, 2025**, for the latest in Argo science! 
-
-It will be possible to follow the meeting online 🌐.
+Held in Crete (HCMR) on **Sept 23-25, 2025**. 
 
 In addition to the Science Meeting itself from Sept. 23 to 25, you will also have the opportunity to attend on:
-- 📌 **Sept 22 afternoon**: a training session on [Argopy](https://github.com/euroargodev/argopy),
+- 📌 **Sept 22 afternoon**: a training session on [Argopy](https://github.com/euroargodev/argopy-training),
 - 📌 **Sept 25 afternoon**: a Mediterranean Argo workshop.
 
-Registration are open in here: https://forms.ifremer.fr/euroargo/8th-euro-argo-science-meeting-registration-form
+[All information about the meeting here](https://www.euro-argo.eu/News-Meetings/Meetings/Euro-Argo-Users-Meetings/8th-Euro-Argo-Science-Meeting).
 
 ![EAScienceMeeting](https://github.com/user-attachments/assets/dca0b06a-639b-4685-a7db-96bd14e1e532)
 
